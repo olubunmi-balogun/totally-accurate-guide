@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 280" width="240" height="280" role="img" aria-label="Crest with a rising growth arrow above an open book">
+  <path d="M20 20 H220 V200 Q220 250 120 272 Q20 250 20 200 Z" fill="#1a3a5c" stroke="#c9a227" stroke-width="5"/>
+  <path d="M38 38 H202 V198 Q202 236 120 254 Q38 236 38 198 Z" fill="none" stroke="#c9a227" stroke-width="2"/>
+  <polyline points="62,150 100,112 132,138 178,82" fill="none" stroke="#c9a227" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="178,82 152,84 176,108" fill="#c9a227"/>
+  <circle cx="62" cy="150" r="7" fill="#ffffff"/>
+  <circle cx="100" cy="112" r="7" fill="#ffffff"/>
+  <circle cx="132" cy="138" r="7" fill="#ffffff"/>
+  <path d="M60 186 Q120 172 180 186 L180 216 Q120 202 60 216 Z" fill="#ffffff"/>
+  <line x1="120" y1="179" x2="120" y2="209" stroke="#1a3a5c" stroke-width="3"/>
+  <text x="120" y="243" font-family="Georgia, serif" font-size="17" fill="#c9a227" text-anchor="middle">EST. 2011</text>
+</svg>
