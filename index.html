@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Field Guide: Bunmi Balogun</title>
   <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
 </head>
 <body>
 
@@ -14,6 +15,7 @@
     <nav id="site-nav">
       <a href="index.html">Home</a>
       <a href="classified.html">Classified</a>
+      <button class="btn" id="theme-button">Switch to dark mode</button>
     </nav>
   </header>
 
@@ -73,6 +75,23 @@
       </div>
     </div>
 
+    <section id="interactive">
+      <h2>Interactive Section</h2>
+      <p>The field guide has been upgraded. It now responds when poked.</p>
+
+      <h3>Declassify a random fact</h3>
+      <div class="control-row">
+        <button class="btn" id="fact-button">Reveal a fact</button>
+      </div>
+      <p id="fact-display">Press the button. The guide will surrender one fact at a time.</p>
+
+      <h3>Identify yourself</h3>
+      <div class="control-row">
+        <input type="text" id="name-input" placeholder="Enter your name">
+        <button class="btn" id="greet-button">Request clearance</button>
+      </div>
+      <p id="greeting-output">Clearance pending.</p>
+    </section>
 
   </main>
 
